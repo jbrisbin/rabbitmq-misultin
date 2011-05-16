@@ -1,0 +1,10 @@
+{application, rabbitmq_misultin,
+ [
+  {description, "RabbitMQ Misultin Plugin"},
+  {vsn, "0.1.0"},
+  {modules, []},
+  {registered, []},
+  {env, []},
+  {applications, [kernel, stdlib, rabbit, mnesia]}
+ ]
+}.
