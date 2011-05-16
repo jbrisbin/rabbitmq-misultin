@@ -1,4 +1,4 @@
-= RabbitMQ Misultin Plugin
+# RabbitMQ Misultin Plugin
 
 This is a plugin for misultin to be used inside the RabbitMQ broker. It is similar 
 to the plugin Alvaro Videla has: (https://github.com/videlalvaro/misultin_wrapper)[https://github.com/videlalvaro/misultin_wrapper] 
